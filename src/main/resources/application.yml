@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+dynamodb:
+  accesskey: "not-valid"
+  secretkey: "not-valid"
+  region: "us-west-2"
+  table-prefix-env: "dev"
+
